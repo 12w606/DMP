@@ -5,11 +5,14 @@
 1.完成数电基础课程——笔记，基础题
 
 2.完成1000题基础题部分，概率论课程笔记，数一额外章节笔记
-[详细的硬性要求说明](imperativerequirement.md)
+
 ---
-[查看需求文件](imperativerequirement.md)
+succesed=20%
+---
+## second_seven day plan
+---
+1.1000题基础题全部
 
-[点击查看2.md文件](imperative requirement.md)
+2.数字电子技术课后题全部
 
-
-[跳转到 README 文件](ir.md)
+3.基础部分——（未学部分）高数，线代，概率论和数电笔记
